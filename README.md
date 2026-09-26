@@ -1,4 +1,4 @@
-# Hi 👋, I'm Aftab Afridi
+# 🤝 Hi 👋, I'm Aftab Afridi
 🤖 Aspiring AI and ML || 🐍 Python Developer || 💻 Computer Science Student
 
 I'm a passionate Computer Science student focused on Artificial Intelligence, Python, and practical AI projects. I enjoy learning by building real-world applications and continuously improving my programming and problem-solving skills.
