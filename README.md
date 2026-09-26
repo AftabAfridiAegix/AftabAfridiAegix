@@ -1,3 +1,20 @@
+# Hi 👋, I'm Aftab Afridi
+🤖 Aspiring AI and ML || 🐍 Python Developer || 💻 Computer Science Student
+
+I'm a passionate Computer Science student focused on Artificial Intelligence, Python, and practical AI projects. I enjoy learning by building real-world applications and continuously improving my programming and problem-solving skills.
+
+📧 Email: m.aftabafridigg@gmail.com
+
+* 🔭 I'm currently working on: Python & AI-based projects
+* 🌱 I'm currently learning: Artificial Intelligence, Machine Learning & Data Science
+* 🧠 I'm exploring: AI-powered applications and intelligent systems
+* 🤝 I'm looking to collaborate on: Python, AI & beginner-friendly open-source projects
+* 💡 I'm interested in: AI, Automation, Data Science & AI-powered security
+* 🛠️ I'm building: Daily Python projects to strengthen my programming skills
+* 🎯 My goal: Build practical AI solutions for real-world problems
+* 📚 Education: BS Computer Science
+* ⚡ Fun fact: I learn best by building projects
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AftabAfridiAegix&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ## 🌐 Socials:
