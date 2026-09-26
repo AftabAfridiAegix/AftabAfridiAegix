@@ -6,13 +6,12 @@ I'm a passionate Computer Science student focused on Artificial Intelligence, Py
 📧 Email: m.aftabafridigg@gmail.com
 
 * 🔭 I'm currently working on: Python & AI-based projects
-* 🌱 I'm currently learning: Artificial Intelligence, Machine Learning & Data Science
+* 🌱 I'm currently learning: Artificial Intelligence, Machine Learning.
 * 🧠 I'm exploring: AI-powered applications and intelligent systems
 * 🤝 I'm looking to collaborate on: Python, AI & beginner-friendly open-source projects
-* 💡 I'm interested in: AI, Automation, Data Science & AI-powered security
+* 💡 I'm interested in: AI, ML & AI-powered security
 * 🛠️ I'm building: Daily Python projects to strengthen my programming skills
 * 🎯 My goal: Build practical AI solutions for real-world problems
-* 📚 Education: BS Computer Science
 * ⚡ Fun fact: I learn best by building projects
 
 ## 🏆 GitHub Trophies
